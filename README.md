@@ -1,126 +1,50 @@
-<div align="center">
-
-# Hi, I'm Ibrahim Khalil 👋
-
-### Web Developer | React & Next.js Developer
-
-I build modern, responsive, and user-friendly web applications with a focus on clean UI, reusable components, and practical solutions.
-
-<p>
-  <a href="https://www.uppercodes.com/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ibrahimkhaliluc/">LinkedIn</a> •
-  <a href="https://www.facebook.com/ibrahim.khalil.0165">Facebook</a> •
-  <a href="mailto:ibrahimkholil01@gmail.com">Email</a>
-</p>
-
-</div>
+# Hi 👋, I'm Ibrahim Khalil  
+### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
-## 🚀 About Me
-
-I'm Ibrahim Khalil, a Web Developer focused on building modern and responsive web applications.
-
-I enjoy turning ideas into functional and user-friendly interfaces while continuously improving my frontend development skills.
-
-I'm currently expanding my knowledge of React and Next.js and working on practical projects to strengthen my development skills.
-
-### 🔭 Currently
-
-- 🌱 Exploring **Next.js** and modern React development
-- ⚛️ Building projects with **React, TypeScript, and Tailwind CSS**
-- 🧩 Learning authentication and full-stack concepts with **Next.js**
-- 🛠️ Working on practical web development projects
-- 📚 Continuously improving my JavaScript and TypeScript skills
+## 👨💻 About Me  
+I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
+Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack  
 
-<p align="center">
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github" />
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,figma,vscode" />
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Dev Stack Builder
-
-An interactive web application that allows developers to explore technologies and build their own custom development stack.
-
-**Tech:** React • TypeScript • Tailwind CSS • Vite
-
-[View Project](https://uppercodes-assignment-05-2026.netlify.app/) • [Source Code](https://github.com/ibrahimkhalildev/Dev-Stack-Builder-A-05)
-
-### 🏋️ FitLog
-
-A modern fitness tracking web application built with Next.js. It provides workout planning, saved workouts, dynamic metrics, and persistent client-side storage.
-
-**Tech:** Next.js • React • TypeScript • Tailwind CSS
-
-[Live Demo](https://assignment-06-fit-log.netlify.app/) • [Source Code](https://github.com/ibrahimkhalildev/fit-log-a06)
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me  
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimkhalildev&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhalildev&theme=transparent&hide_border=true" />
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
 
 ---
 
-## 📈 Most Used Languages
+## 📊 GitHub Stats  
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkhalildev&layout=compact&theme=transparent&hide_border=true" />
-
-</p>
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.uppercodes.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/ibrahimkhaliluc/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/ibrahim.khalil.0165">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:ibrahimkholil01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Learning, building, and improving — one project at a time."
-
-Thanks for visiting my profile! ⭐
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
