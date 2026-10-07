@@ -1,4 +1,9 @@
+
 <div align="center">
+
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+</p>
 
 # Hi, I'm Ibrahim Khalil 👋
 
