@@ -1,31 +1,126 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Khalil</h1>
-<h3 align="center">A full-stack web developer dedicated to building clean, modern, and scalable software.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimkhalildev&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimkhalildev" /> </p>
+# Hi, I'm Ibrahim Khalil 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkhalildev" alt="ibrahimkhalildev" /></a> </p>
+### Web Developer | React & Next.js Developer
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I build modern, responsive, and user-friendly web applications with a focus on clean UI, reusable components, and practical solutions.
 
-- 🔭 I’m currently working on [ICCES](https://www.icces.pro/)
-
-- 🌱 I’m currently learning **React, Next JS**
-
-- 👨‍💻 All of my projects are available at [https://www.uppercodes.com/](https://www.uppercodes.com/)
-
-- 📫 How to reach me **ibrahimkholil01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ibrahimkhaliluc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimkhaliluc" height="30" width="40" /></a>
-<a href="https://fb.com/ibrahim.khalil.0165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim.khalil.0165" height="30" width="40" /></a>
+<p>
+  <a href="https://www.uppercodes.com/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ibrahimkhaliluc/">LinkedIn</a> •
+  <a href="https://www.facebook.com/ibrahim.khalil.0165">Facebook</a> •
+  <a href="mailto:ibrahimkholil01@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimkhalildev&show_icons=true&locale=en&layout=compact" alt="ibrahimkhalildev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimkhalildev&show_icons=true&locale=en" alt="ibrahimkhalildev" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhalildev&" alt="ibrahimkhalildev" /></p>
+I'm Ibrahim Khalil, a Web Developer focused on building modern and responsive web applications.
+
+I enjoy turning ideas into functional and user-friendly interfaces while continuously improving my frontend development skills.
+
+I'm currently expanding my knowledge of React and Next.js and working on practical projects to strengthen my development skills.
+
+### 🔭 Currently
+
+- 🌱 Exploring **Next.js** and modern React development
+- ⚛️ Building projects with **React, TypeScript, and Tailwind CSS**
+- 🧩 Learning authentication and full-stack concepts with **Next.js**
+- 🛠️ Working on practical web development projects
+- 📚 Continuously improving my JavaScript and TypeScript skills
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,figma,vscode" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Dev Stack Builder
+
+An interactive web application that allows developers to explore technologies and build their own custom development stack.
+
+**Tech:** React • TypeScript • Tailwind CSS • Vite
+
+[View Project](https://uppercodes-assignment-05-2026.netlify.app/) • [Source Code](https://github.com/ibrahimkhalildev/Dev-Stack-Builder-A-05)
+
+### 🏋️ FitLog
+
+A modern fitness tracking web application built with Next.js. It provides workout planning, saved workouts, dynamic metrics, and persistent client-side storage.
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS
+
+[Live Demo](https://assignment-06-fit-log.netlify.app/) • [Source Code](https://github.com/ibrahimkhalildev/fit-log-a06)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimkhalildev&show_icons=true&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhalildev&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkhalildev&layout=compact&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.uppercodes.com/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ibrahimkhaliluc/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/ibrahim.khalil.0165">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:ibrahimkholil01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Learning, building, and improving — one project at a time."
+
+Thanks for visiting my profile! ⭐
+
+</div>
