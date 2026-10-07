@@ -7,7 +7,7 @@
 
 # Hi, I'm Ibrahim Khalil 👋
 
-### Web Developer | React & Next.js Developer
+### WordPress Developer | .NET Developer | React & Next.js Developer
 
 I build modern, responsive, and user-friendly web applications with a focus on clean UI, reusable components, and practical solutions.
 
